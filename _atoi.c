@@ -62,4 +62,4 @@ int _atoi(char *s)
 	else
 		output = result;
 	return (output);
-
+}
